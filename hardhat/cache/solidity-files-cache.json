@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\aryaa\\OneDrive\\Desktop\\contactMng\\hardhat\\contracts\\Contact.sol": {
+      "lastModificationDate": 1695569179894,
+      "contentHash": "f316d976f13fae9704d1e5058ff1e84f",
+      "sourceName": "contracts/Contact.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Contact"
+      ]
+    }
+  }
+}
